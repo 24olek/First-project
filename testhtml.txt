@@ -1,0 +1,12 @@
+<!doctype html>
+<html lang="pl">
+<html>
+<head>
+<meta charset="utf-8">
+strona testowa
+</head>
+<body>
+<p> tekst testowy </p>
+</body>
+
+</html>
