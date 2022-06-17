@@ -1,0 +1,12 @@
+.description {
+color: black;
+margin: 20;
+padding: 20;
+border: 2px solid #ff4500;
+}
+
+table { background: #fffefe;
+border: 2px solid #ee82ee; }
+body {
+background: #eee;
+border: 2px solid #fff; }
